@@ -29,9 +29,9 @@ Vote pour l'approbation du procès-verbal:
 Remarque : L'utilisation de git n'est peut être pas adapté.
 
 # Mini-conférences et ateliers
-Les mini-conférences se passe plutôt bien. Il n'y a pas énormément de monde et se sont essentiellement des personnes de l'aius qui viennent aux conférences
-On va tenter de voir comment améliorer ça. Quentin est en discussions avec Marc Chantreux.
-Beaucoup de gens pense sans doute que ce sont des conférence réserver à math-info ou trop complexe ou pas addapter aux débutants
+Les mini-conférences se passent plutôt bien. Il n'y a pas énormément de monde et ce sont essentiellement des personnes de l'aius qui viennent aux conférences.
+On va tenter de voir comment améliorer ça. Quentin est en discussion avec Marc Chantreux.
+Beaucoup de gens pensent sans doute que ce sont des conférences réservées à math-info, trop complexes ou non adaptées aux débutants.
 Il faudrait donc refaire une affiche précisant que c'est pour les débutants.
 Pauline s'en occupe.
 
@@ -40,8 +40,8 @@ Pauline s'en occupe.
 L'événement s'est globalement bien passé.
 On attend encore le retour des entreprises.
 Il n'y avait que Luka, Tarek et Brice le matin donc il n'y avait pas grand monde de l'aius. Halter et Guillaume était présent pour le rangement.
-Cateloin avait demandé une feuille d'émargement pour excuser les étudiants en licenses.
-Il n'y a eu aucune banalisation et c'est pour ça qu'il n'y as pas eu grand monde.
+Cateloin avait demandé une feuille d'émargement pour excuser les étudiants en licence.
+Il n'y a eu aucune banalisation et c'est pour ça qu'il n'y a pas eu grand monde.
 Bastoul ainsi que Myriam et Cateloin ont envoyé un mail pour faire banalisé les cours, mais ça n'a pas marché.
 
 L'année prochaine, comme il n'y aura pas l'ensiee, il n'y aura personne si les cours ne sont pas banalisé.
@@ -51,10 +51,10 @@ Il y eu quelques problèmes d'organisation.
 Il y avait un manque de communication au niveau des tables rondes et l'aius ne savait rien jusqu'à 11h15 et beaucoup de confusion. C'était alors relativement difficile d'informer les étudiants ainsi que les entreprises qui posaient des questions
 Le petit déjeuner pour les entreprises était au premier étage alors que les stands étaient au rdc. Ce n'etait donc pas très pratique pour eux. 
 Au moment du midi quand le repas a été distribué, celà à pris beaucoup de temps. 
-On aura minimum 300€ des dons qui seront diviser par deux après retranchage des frais.
+On aura minimum 300€ des dons qui seront divisé par deux après retranchage des frais.
 
 ## JU
-Les JU se sont bien déroulés, tout le monde a fait son planning. Il y avait quelques-fois un poil trop de monde en même temps mais on n'y pouvait rien.
+Les JU se sont bien déroulées, tout le monde a fait son planning. Il y avait quelques-fois un poil trop de monde en même temps mais on n'y pouvait rien.
 L'AIUS avait prévenu du nombres d'étudiants envoyés mais les MPA et les DUAS eux ne l'ont pas fait.
 Il y a eu un mail de remerciement de M.Blancloeil
 
@@ -63,14 +63,14 @@ Il y a eu un mail de remerciement de M.Blancloeil
 ## Pot de Pâques
 Il faut terminer l'affiche avant la fin de la semaine.
 Il faudrait avoir la C9 pour stocker la nourriture.
-On a trouver des orreile de lapin : 4.5€ et le kit à 6€.
+On a trouver des oreilles de lapin : 4.5€ et le kit à 6€.
 Il y aura un framadate pour savoir qui veut porter ces oreilles.
 Une question importante : Est ce qu'on fait la chasse aux oeufs de pâques ?
 Il faudrait donc des oeufs en carton pour recevoir les chocolats.
-Il faudra faire des origami pour la décoration.
+Il faudra faire des origamis pour la décoration.
 
 ## LAN
-Thomas as contacté l'alcane, ça se fera le 30 mars à la kfet de chimie. On aura à priori des knacks en plus des crocs habituels. 
+Thomas a contacté l'Alcane, ça se fera le 30 mars à la kfet de chimie. On aura à priori des knacks en plus des crocs habituels. 
 On a envoyé un petit sondage pour les jeux à télécharger.
 On ramènera aussi des consoles, et on aura un petit coin rétro gaming.
 On pourra potentiellement organiser un tournoi . Mario kart, super smash, age of mythology...
